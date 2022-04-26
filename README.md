@@ -3,8 +3,8 @@
 Analysis of youtube trending videos dataset
 
 Dataset link : https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
-              Files used - CA_category_id.json, US_category_id.json, US_youtube_trending_data.csv, CA_youtube_trending_data.csv
-              Include these files in dataset folder.
+Files used - CA_category_id.json, US_category_id.json, US_youtube_trending_data.csv, CA_youtube_trending_data.csv
+Include these files in dataset folder.
               
 final_code.ipynb - 
   Read the data files from "dataset" folder 
