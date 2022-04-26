@@ -9,9 +9,7 @@ Files used - CA_category_id.json, US_category_id.json, US_youtube_trending_data.
 
 
 final_code.ipynb - 
-
-  Read the data files from "dataset" folder 
-  
+  Read the data files from "dataset" folder \n
   Perform initial loading and cleaning of data
   
   Creating model for streak calculation - saving them in "models" folder
